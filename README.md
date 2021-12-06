@@ -5,7 +5,7 @@ The purpose of this projectcreate a DataFrame of the ride-sharing data by city t
 ## Results
 I have created a statistical overview and summary:
 ![pyber_summary](analysis/pyber_summary.png)
-![Pyber_fare_summary](Pyber_fare_summary.png)
+![Pyber_fare_summary](analysis/Pyber_fare_summary.png)
 By reviewing the summary we can see that there are several key findings:
 1.Urban cities has the highest ridership demand and rural cities has the least
 2.Urban cities has the most drivers and rural cities has the least
